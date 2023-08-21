@@ -1,1 +1,1 @@
-# exercises
+# V7 Fundamentals - Exercises
